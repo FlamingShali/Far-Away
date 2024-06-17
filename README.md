@@ -1,4 +1,4 @@
-Important! - I am not the initiator of this project. It is made as a part of the React course. With permission of the author, i use it only as a adittion to my portfolio.
+Important! - I am not the initiator of this project. It is made as a part of the React course. With permission of the author, I use it only as an adition to my portfolio.
 
 This is a simple application for tourists which checks actual status of packing items for journey.
 
